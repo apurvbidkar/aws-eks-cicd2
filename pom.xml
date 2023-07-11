@@ -15,7 +15,7 @@
 	<description>Knote</description>
 
 	<properties>
-                <sonar.host.url>http://54.210.84.189:9000/</sonar.host.url>
+                <sonar.host.url>http://3.94.160.140:9000/</sonar.host.url>
 		<java.version>11</java.version>
 	</properties>
 
