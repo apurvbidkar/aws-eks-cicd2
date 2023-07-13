@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: apurvbidkar/devsecops
+          image: apurvbidkar/aws-eks-pipeline2
           ports:
             - containerPort: 8080
           env:
